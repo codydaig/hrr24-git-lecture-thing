@@ -1,1 +1,1 @@
-This is a new line 1 becaise the old one didn't make sense.
+This is a new line 1 because the old one didn't make sense.
